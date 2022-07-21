@@ -1,0 +1,5 @@
+#!/bin/sh 
+/add_hosts
+nginx
+
+su billy -c "/bin/banner; sh"

@@ -1,0 +1,44 @@
+Address:0xD4Db8B7c6b7Be3385Cf3a380Db11EBdbc4D10e28 Time;17:15:59.715
+{
+	"code":"SUCCESS",
+	"data":null,
+	"message":"",
+	"result":1
+}
+Address:0x9Dd57eab890A66b852c4610405f0ac0EC209Edc7 Time;17:15:59.714
+{
+	"code":"SUCCESS",
+	"data":null,
+	"message":"",
+	"result":1
+}
+Address:0xE56E75B7fDBa3a1507f9c7b520785c14552C56c7 Time;17:15:59.712
+{
+	"code":"SUCCESS",
+	"data":null,
+	"message":"",
+	"result":1
+}
+Address:0x38B9D4c3aae0596BD50424CE4897c1091c644c42 Time;17:15:59.708
+{
+	"code":"SUCCESS",
+	"data":null,
+	"message":"",
+	"result":1
+}
+Address:0xB645fAc9451C8b2ec38DEC5e8cD1c2985e486217 Time;17:15:59.712
+{
+	"code":"OFFICIAL_SALE_QUANTITY_ERROR",
+	"data":null,
+	"message":"We have limited stock. The product {} is not available to purchase now.",
+	"result":-1
+}
+Address:0x2303A7b2F217C4a76c10E95627d86926Ed5E51Cc Time;17:15:59.711
+{
+	"code":"OFFICIAL_SALE_QUANTITY_ERROR",
+	"data":null,
+	"message":"We have limited stock. The product {} is not available to purchase now.",
+	"result":-1
+}
+[True, True, True, True, True, True]
+Затраченное на работу скрипта время: 22.754011896

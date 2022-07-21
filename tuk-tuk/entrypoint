@@ -1,0 +1,5 @@
+#!/bin/sh 
+FLASK_APP=/root/webapp.py flask run --host=0.0.0.0 1>/dev/null 2>&1 &
+nginx
+
+su police -c "/bin/banner; sh"

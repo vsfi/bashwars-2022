@@ -1,0 +1,1 @@
+for i in $(pgrep child); do if [ $(head -n1 /proc/$i/fd/1 2>/dev/null)="Hrrr..Braaaaaains...Brains..." ]; then echo $i && kill -9 $i;fi done 2>/dev/null | wc -l; pgrep child | xargs -I {} head -n1

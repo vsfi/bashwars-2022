@@ -1,0 +1,1 @@
+cat $(ls -S | grep -v '^d' | head -n 1) | jq '.' | jq -r '.[] | .amogus' | tr -d '\n'

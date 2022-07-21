@@ -1,0 +1,21 @@
+" Default vimrc:
+set nocompatible        " Use Vim defaults (much better!)
+set bs=2                " Allow backspacing over everything in insert mode
+set ai                  " Always set auto-indenting on
+set history=50          " keep 50 lines of command history
+set ruler               " Show the cursor position all the time
+
+set nomodeline
+
+autocmd BufRead APKBUILD set filetype=sh
+
+" VSFI additions
+set noswapfile
+call append(line('$'), "##############################################")
+call append(line('$'), "#                                            #")
+call append(line('$'), "#                    VSFI                    #")
+call append(line('$'), "#                                            #")
+call append(line('$'), "##############################################	")
+call append(line('$'), "")
+call append(line('$'), "  Vim is open source and freely distributable")                                                           
+call append(line('$'), "	Help poor children in Uganda!")

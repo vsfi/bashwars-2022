@@ -1,0 +1,11 @@
+#!/bin/sh
+echo "127.0.0.1 biba-i-boba.org" >> /etc/hosts
+echo "127.0.0.1 volkov-zaika.cam" >> /etc/hosts
+echo "127.0.0.1 zabbix-super.net" >> /etc/hosts
+echo "127.0.0.1 voenkom.ru" >> /etc/hosts
+echo "127.0.0.1 vsfi4ever.heh" >> /etc/hosts
+echo "127.0.0.1 bober.river" >> /etc/hosts
+echo "127.0.0.1 borskaya.jizn" >> /etc/hosts
+echo "127.0.0.1 jigul.sto" >> /etc/hosts
+echo "127.0.0.1 fon-bokano.dvesti" >> /etc/hosts
+echo "127.0.0.1 zolotoypetushok.top" >> /etc/hosts

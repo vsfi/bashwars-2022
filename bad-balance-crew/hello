@@ -1,0 +1,6 @@
+#!/bin/sh 
+FLASK_APP=/root/webapp.py flask run --host=0.0.0.0 1>/dev/null 2>&1 &
+
+cat /home/banner.txt; sleep 1
+
+su bbalance

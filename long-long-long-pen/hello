@@ -1,0 +1,5 @@
+#!/bin/sh 
+cat /michele/banner.txt; 
+echo
+
+su michele

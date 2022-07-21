@@ -1,0 +1,1 @@
+echo $(cat Who_first | sort | uniq -u | rev | cut -d' ' -f1 | rev | tr -d '\n')
