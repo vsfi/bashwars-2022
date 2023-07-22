@@ -1,3 +1,5 @@
+# WARNING: the repo has been moved to https://github.com/vsfi/bashwars/
+
 # Disclaimer
 **One liners are bad for your health.**
 
